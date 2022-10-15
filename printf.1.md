@@ -22,5 +22,5 @@ DEFAULT_HELLO_DEDICATION
 BUGS
 See GitHub Issues: https://github.com/Blaisepromise-111/printf/issues
 
-AUTHOR
+AUTHORS
 Bless Promise and Emmanuel Ebenje
