@@ -1,4 +1,4 @@
-.TH printf.1 "16th October, 2022" "hk1.0" "_printf man page"
+.TH man_3_printf "16th October, 2022" "hk1.0" "_printf man page"
 .SH AUTHOR "Bless Promise" "Emmanuel Ebenje"
 .SH NAME
 .B _printf
